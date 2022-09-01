@@ -1,0 +1,5 @@
+E:\Work\Bowling ball scoring\Bowling ball scoring\obj\Debug\netcoreapp3.1\Bowling ball scoring.csproj.AssemblyReference.cache
+E:\Work\Bowling ball scoring\Bowling ball scoring\obj\Debug\netcoreapp3.1\Bowling ball scoring.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Bowling ball scoring\Bowling ball scoring\obj\Debug\netcoreapp3.1\Bowling ball scoring.AssemblyInfoInputs.cache
+E:\Work\Bowling ball scoring\Bowling ball scoring\obj\Debug\netcoreapp3.1\Bowling ball scoring.AssemblyInfo.cs
+E:\Work\Bowling ball scoring\Bowling ball scoring\obj\Debug\netcoreapp3.1\Bowling ball scoring.csproj.CoreCompileInputs.cache
